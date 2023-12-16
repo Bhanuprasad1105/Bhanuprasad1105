@@ -1,7 +1,6 @@
-Hii 👋, Its good to see you here..
-      I'm Bhanuprasad Duggineni
-  Passionate Data Analyst
-
+### Hii 👋, Its good to see you here..
+ #     I'm Bhanuprasad Duggineni
+ ## Passionate Data Analyst
 
 
 <!--
