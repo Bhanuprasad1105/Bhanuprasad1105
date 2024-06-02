@@ -2,7 +2,7 @@
 <h1 align="center">I'm Bhanuprasad Duggineni</h1>
 <h3 align="center">Passionate Data Analyst</h3>
 
-- 🌱 I’m currently learning and working on Data streams.
+- 🌱 Currently learning and working on Data streams.
 
 - 📫 You can reach me **bhanuprasadduggineni@gmail.com**
 
