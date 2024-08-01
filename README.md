@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Its good to see you here..</h1>
 <h1 align="center">I'm Bhanuprasad Duggineni</h1>
-<h3 align="center">Passionate Data Analyst</h3>
+<h3 align="center">Passionate Developer</h3>
 
 - 🌱 Currently learning and working on Data streams.
 
